@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/cmr-exchange/cmr-service-bridge
+	branch = master
+	commit = 9bc8b22935a90a914ad1f0c5c2cc52969015f1a5
+	parent = 64f0eb6655f1389c3c8b503bbe8a196b7fd48b69
+	cmdver = 0.3.1
