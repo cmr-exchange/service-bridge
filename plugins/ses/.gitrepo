@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/cmr-exchange/cmr-sizing-plugin
+	branch = master
+	commit = d92bdec85c65f787c722d4b434bc09f26a9bc4ed
+	parent = 3f15995934db7398cd324728bc4f1e6d8db4519f
+	cmdver = 0.3.1
