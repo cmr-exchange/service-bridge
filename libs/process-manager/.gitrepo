@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/cmr-exchange/cmr-process-manager
+	branch = master
+	commit = 558dd0f319f655ce1c2c96b30c118f7cea3f324c
+	parent = 767a2bcf91704e9de2d372b7d41cf2c7955f9502
+	cmdver = 0.3.1
