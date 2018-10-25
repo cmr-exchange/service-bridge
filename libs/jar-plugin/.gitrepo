@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/cmr-exchange/cmr-jar-plugin
+	branch = master
+	commit = c24b2340cc59e731d53d94cf565483c12ad3ebb1
+	parent = 21cb9998da3afd912e4973a90cde1550fd5b655a
+	cmdver = 0.3.1
