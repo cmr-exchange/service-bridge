@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/cmr-exchange/cmr-authz
+	branch = master
+	commit = 57db9a124ba32ff46b1f446f290e98f6e4927b28
+	parent = f7546206f0837b7de6ec01f43fad13268877b616
+	cmdver = 0.3.1
